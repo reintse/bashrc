@@ -7,10 +7,12 @@ clone the repo
 
 Overwrite existing ~/.bashrc
 ```sh
-cat bashrc > ~/.bashrc```
+cat bashrc > ~/.bashrc
+```
 
 OR
 
 Only add aliases, keep existing ~/.bashrc
 ```sh
-cat alias >> /.bashrc```
+cat alias >> /.bashrc
+```
