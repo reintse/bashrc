@@ -6,9 +6,9 @@ INSTALLATION:
 clone the repo
 
 Overwrite existing ~/.bashrc
-`cat bashrc > ~/.bashrc`
+```cat bashrc > ~/.bashrc```
 
 OR
 
 Only add aliases, keep existing ~/.bashrc
-`cat alias >> /.bashrc`
+```cat alias >> /.bashrc```
